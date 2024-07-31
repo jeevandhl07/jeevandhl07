@@ -13,7 +13,7 @@
   💬 Ask me about <strong>Android, iOS</strong>
 </p>
 <p align="center">
-  📫 How to reach me: <strong>udsjeevan@gmail.com</strong>
+  📫 How to reach me: <strong><a>udsjeevan@gmail.com</a></strong>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
