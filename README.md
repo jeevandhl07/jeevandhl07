@@ -1,34 +1,25 @@
-# Hi there, I'm Jeevan Dahal 👋
+<h1 align="center">Hi 👋, I'm Jeevan Dahal</h1>
+<h3 align="center">I am an experienced app developer specializing in React Native. My focus is on building high-quality, cross-platform mobile applications that deliver excellent user experiences. With a background in both front-end and back-end development, I have a comprehensive understanding of the app development lifecycle from design to deployment.</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)"/>
 
-Welcome to my GitHub profile! I'm an enthusiastic app developer with a passion for creating seamless, user-friendly mobile applications using React Native.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevandhl07&label=Profile%20views&color=0e75b6&style=flat" alt="jeevandhl07" /> </p>
 
-## 🚀 About Me
+- 🌱 I’m currently learning **React Native**
 
-I am an experienced app developer specializing in React Native. My focus is on building high-quality, cross-platform mobile applications that deliver excellent user experiences. With a background in both front-end and back-end development, I have a comprehensive understanding of the app development lifecycle from design to deployment.
+- 💬 Ask me about **Android, Ios**
 
-## 🛠️ Skills
+- 📫 How to reach me **udsjeevan@gmail.com**
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries**: React Native, Redux, Redux-Saga
-- **Tools & Platforms**: Expo, Node.js, Firebase
-- **Other Technologies**: SVG, REST APIs, Git, CI/CD
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jeevan dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan dahal" height="30" width="40" /></a>
+</p>
 
-## 📚 Current Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-- **[HomeDashboard](https://github.com/username/HomeDashboard)**: A React Native project displaying detailed flock information with a customized data structure.
-- **[Custom Button Component](https://github.com/username/CustomButtonComponent)**: A custom `Button` component in React Native using `ButtonSvgBg` and `ButtonShadowView` components for rendering button background and shadow effects.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevandhl07&show_icons=true&locale=en&layout=compact" alt="jeevandhl07" /></p>
 
-## 🌱 Learning & Development
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevandhl07&show_icons=true&locale=en" alt="jeevandhl07" /></p>
 
-I'm continuously learning and exploring new technologies to enhance my skills and stay updated with industry trends. Currently, I am delving deeper into advanced React Native techniques and performance optimization.
-
-## 💬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/jeevan-dahal/)
-- [Twitter](https://twitter.com/jeevan_dahal)
-
-Feel free to reach out if you want to collaborate on projects, discuss technology, or just have a chat!
-
----
-
-Thank you for visiting my profile. Happy coding! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevandhl07&" alt="jeevandhl07" /></p>
